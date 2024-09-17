@@ -59,6 +59,10 @@ img {
   color: white;
   padding: 10px 25px;
 }
+.hero-content button:hover {
+  cursor: pointer;
+}
+
  section img {
   width: 200px;
   height: 200px;
@@ -128,6 +132,10 @@ img {
   padding: 5px 15px;
   border-radius: 5px;
   border: 2px solid white;
+ }
+
+ .action button:hover {
+  cursor: pointer;
  }
  .action p {
   color: white;
